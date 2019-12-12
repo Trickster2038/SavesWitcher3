@@ -83,7 +83,6 @@ DlcEnabled_dlc_011_002=0
 [Gameplay]
 DisableAutomaticSwordSheathe=true
 Difficulty=4
-HudTutorialEnabled=false
 EnableUberMovement=1
 [LevelOfDetail]
 SwarmHideDistance=200
