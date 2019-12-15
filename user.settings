@@ -18,6 +18,8 @@ Resolution="1920x1080"
 FullScreenMode=0
 VSyncThreshold=0
 OutputMonitor=0
+[Hud]
+MinimapFocusClues=true
 [Budget]
 TerrainTileMipDataBudget=100
 TerrainTileMinTimeout=2
@@ -84,6 +86,7 @@ DlcEnabled_dlc_011_002=0
 DisableAutomaticSwordSheathe=true
 Difficulty=4
 EnableUberMovement=1
+EnemyUpscaling=true
 [LevelOfDetail]
 SwarmHideDistance=200
 DecalsHideDistance=30
