@@ -15,7 +15,7 @@ TextLanguage=RU
 [Viewport]
 VSync=true
 Resolution="1920x1080"
-FullScreenMode=0
+FullScreenMode=1
 VSyncThreshold=0
 OutputMonitor=0
 [Hud]
