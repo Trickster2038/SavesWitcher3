@@ -44,8 +44,11 @@ SharpenAmount=1
 MotionBlurPositionTreshold=0.05
 AllowVignette=false
 MotionBlurRotationTreshold=1
+AllowShafts=false
 AllowMotionBlur=false
-SSAOSolution=1
+AllowDOF=false
+SSAOSolution=0
+AllowBlur=false
 [Input]
 PadVibrationEnabled=true
 KeyboardCooldownSpeed=0.1
